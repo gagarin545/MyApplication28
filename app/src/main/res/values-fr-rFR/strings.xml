@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Les desirs</string>
+    <string name="fair">Vous devez faire - </string>
+    <string-array name="order">
+        <item>Le baiser du voisin</item>
+        <item>Chercher me</item>
+        <item>Buvez le vin</item>
+        <item>Faire a moi bon du cafe</item>
+        <item>Achète me le costume neuf</item>
+        <item>Pousse des cocoricos</item>
+        <item>Pénètre sous la table</item>
+    </string-array>
+
+</resources>
