@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Желания</string>
+    <string name="fair">Вы должны сделать - </string>
+    <string-array name="order">
+        <item>Поцелуй соседа</item>
+        <item>Искать меня</item>
+        <item>Выпить вина</item>
+        <item>Сделай мне чашку хорошего кофе</item>
+        <item>Купи мне новый костюм</item>
+        <item>кукарекай</item>
+        <item>Залезь под стол</item>
+    </string-array>
+
+</resources>

@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         else
             butt.setImageResource(R.drawable.koala);
         flag = !flag;
-        
+
     }
 }
 

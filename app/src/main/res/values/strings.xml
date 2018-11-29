@@ -1,14 +1,14 @@
 <resources>
-    <string name="app_name">Les desirs</string>
-    <string name="fair">Vous devez faire - </string>
+    <string name="app_name">Desires</string>
+    <string name="fair">You have to make - </string>
     <string-array name="order">
-        <item>Le baiser du voisin</item>
-        <item>Chercher me</item>
-        <item>Buvez le vin</item>
-        <item>Faire a moi bon du cafe</item>
-        <item>Achète me le costume neuf</item>
-        <item>Pousse des cocoricos</item>
-        <item>Pénètre sous la table</item>
+        <item>kiss of the neighbor</item>
+        <item>To look for me</item>
+        <item>To drink wines</item>
+        <item>Make to me a cup of good coffee</item>
+        <item>Buy me a new suit</item>
+        <item>on crow</item>
+        <item>Climb under a table</item>
     </string-array>
 
 </resources>
